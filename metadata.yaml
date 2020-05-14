@@ -1,0 +1,36 @@
+_repo: The-Sea-and-Its-Living-Wonders-A-Popular-Account-of-the-Marvels-of-the-Deep-and-of-the-Progre__62011
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hartwig, G. (Georg)
+    aliases:
+    - Hartwig, Georg
+    - Hartwig, George
+    birthdate: 1813
+    deathdate: 1880
+    gutenberg_agent_id: '46868'
+    url: http://www.gutenberg.org/2009/agents/46868
+description: ''
+gutenberg_issued: '2020-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62011'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Discoveries in geography -- History'
+- !lcsh 'Animal behavior'
+- !lcc 'GC'
+- !lcc 'QL'
+- !lcsh 'Ocean'
+- !lcsh 'Discoveries in geography'
+- !lcsh 'Marine plants'
+- !lcsh 'Marine animals'
+- !lcc 'QH'
+- GITenberg
+title: "The Sea and Its Living Wonders\r\nA Popular Account of the Marvels of the\
+  \ Deep and of the Progress of Martime Discovery from the Earliest Ages to the Present\
+  \ Time"
+url: http://www.gutenberg.org/ebooks/62011
